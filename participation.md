@@ -116,4 +116,46 @@ I followed along as we forked and pushed our files into homework2_teams.
 
 Understanding pull request.
 
+# Lecture 9
+
+## How Did I Prepare Before Lecture?
+
+I commited my participation.md file to the ME701 github repository.
+
+## How Did I Contribute During Lecture?
+
+I asked questions about merging conflicts that could occur during our homework 2.
+
+## What Was or Is The Most Confusing Thing?
+
+Forking repository and cloning to my own repository.
+
+# Lecture 10
+
+## How Did I Prepare Before Lecture?
+
+Refreshed python skills and commands.
+
+## How Did I Contribute During Lecture?
+
+Followed along in the iPython console.
+
+## What Was or Is The Most Confusing Thing?
+
+Everything was fairly clear as I have used python on spyder before.
+
+# Lecture 11
+
+## How Did I Prepare Before Lecture?
+
+Refreshed python loops and definitions.
+
+## How Did I Contribute During Lecture?
+
+I followed along in the iPython console.
+
+## What Was or Is The Most Confusing Thing?
+
+args and kwargs
+
 
